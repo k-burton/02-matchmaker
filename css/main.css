@@ -1,0 +1,145 @@
+header {
+  height: 100px;
+  background-color: black;
+}
+h1 {
+  color: #F5E214;
+  font-size: 50px;
+  font-family: 'Abril Fatface', cursive;
+  opacity: 1;
+  padding-bottom: 20px;
+}
+ul {
+  margin-left: 60%;
+  font-family: 'Oswald', sans-serif;
+  text-align: right;
+}
+li {
+  margin-left: 15px;
+}
+.menuFind {
+  float: left;
+  color: white;
+  font-weight: bolder;
+}
+.menuAbout {
+  float: left;
+  color: white;
+}
+.section1 {
+  background-color: #bdbfc1;
+  height: 50px;
+  text-align: center;
+}
+.tagline {
+  font-family: 'Abril Fatface', cursive;
+  font-style: italic;
+  padding-top: 18px;
+}
+.taste {
+  color: #474747;
+  text-decoration: line-through;
+}
+.are {
+  border-bottom: 3px #F5E214 solid;
+}
+.section2 {
+  height:500px;
+  background-image: url("../images/coworking.jpg");
+  background-size: cover;
+}
+.box1 {
+  background-color: rgba(230, 230, 225, .8);
+  /*opacity: 0.8;*/
+  height: 80%;
+  width: 30%;
+  /*margin: 50px 5% 50px 5%;*/
+  float: right;
+  padding: 30px;
+  margin-right: 20px;
+  margin-top: 20px;
+  box-shadow: 3px grey;
+}
+.boxwithinbox {
+  height:85%;
+}
+.createprof {
+  padding-top: 5px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+.greyboxtitle {
+  font-size: 30px;
+  font-family: 'Anton', sans-serif;
+  padding-bottom: 20px;
+}
+h3 {
+  font-family: 'Noto Serif', serif;
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+.yellowbutton {
+  background-color: #F5E214;
+  height: 40px;
+  width: 100%;
+  border-radius: 6px;
+  box-shadow: 3px 3px black;
+  opacity: 1;
+  font-size: 18px;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 900;
+  padding-top: 6px;
+}
+.section3 {
+  height: 300px;
+}
+.boxrow {
+  float: left;
+  margin-left: 2%;
+  margin-top: 30px;
+  width: 29%;
+  height: 200px;
+}
+.lasttwo {
+  border-left: 2px solid grey;
+  padding-left: 2%;
+}
+.words {
+  height: 175px;
+}
+.boxC {
+  margin-right: 4px;
+}
+.greybutton {
+  border-radius: 4px;
+  box-shadow: 2px 2px grey;
+  height: 40px;
+  padding-top: 6px;
+  background-color: #bdbfc1;
+}
+.signup {
+  padding-top: 5px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+.startsearch {
+  padding-top: 5px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+p {
+  line-height: 30px;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+footer {
+  background-color: black;
+  height: 60px;
+  color: white;
+}
+.copyright {
+  padding-top: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
